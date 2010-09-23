@@ -67,7 +67,7 @@
             If type = 1 Then
                 'work period has finished
                 Select Case inc
-                    Case 4
+                    Case Is = txtFrequency.Text
                         'reset inc to 1
                         inc = 1
                         'set break interval

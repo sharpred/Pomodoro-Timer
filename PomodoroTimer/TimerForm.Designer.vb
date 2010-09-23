@@ -113,7 +113,7 @@ Partial Class TimerForm
         Me.btnCancel.Location = New System.Drawing.Point(44, 91)
         Me.btnCancel.Name = "btnCancel"
         Me.btnCancel.Size = New System.Drawing.Size(75, 23)
-        Me.btnCancel.TabIndex = 7
+        Me.btnCancel.TabIndex = 3
         Me.btnCancel.Text = "Cancel"
         Me.btnCancel.UseVisualStyleBackColor = True
         '
@@ -177,14 +177,14 @@ Partial Class TimerForm
         Me.txtFrequency.Location = New System.Drawing.Point(157, 333)
         Me.txtFrequency.Name = "txtFrequency"
         Me.txtFrequency.Size = New System.Drawing.Size(100, 20)
-        Me.txtFrequency.TabIndex = 14
+        Me.txtFrequency.TabIndex = 7
         '
         'txtShortBreak
         '
         Me.txtShortBreak.Location = New System.Drawing.Point(157, 302)
         Me.txtShortBreak.Name = "txtShortBreak"
         Me.txtShortBreak.Size = New System.Drawing.Size(100, 20)
-        Me.txtShortBreak.TabIndex = 15
+        Me.txtShortBreak.TabIndex = 6
         '
         'txtWorkTime
         '
@@ -192,21 +192,21 @@ Partial Class TimerForm
         Me.txtWorkTime.Name = "txtWorkTime"
         Me.txtWorkTime.RightToLeft = System.Windows.Forms.RightToLeft.Yes
         Me.txtWorkTime.Size = New System.Drawing.Size(100, 20)
-        Me.txtWorkTime.TabIndex = 16
+        Me.txtWorkTime.TabIndex = 4
         '
         'txtLongBreak
         '
         Me.txtLongBreak.Location = New System.Drawing.Point(157, 272)
         Me.txtLongBreak.Name = "txtLongBreak"
         Me.txtLongBreak.Size = New System.Drawing.Size(100, 20)
-        Me.txtLongBreak.TabIndex = 17
+        Me.txtLongBreak.TabIndex = 5
         '
         'Button1
         '
         Me.Button1.Location = New System.Drawing.Point(44, 388)
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(114, 23)
-        Me.Button1.TabIndex = 18
+        Me.Button1.TabIndex = 8
         Me.Button1.Text = "Update Settings"
         Me.Button1.UseVisualStyleBackColor = True
         '
