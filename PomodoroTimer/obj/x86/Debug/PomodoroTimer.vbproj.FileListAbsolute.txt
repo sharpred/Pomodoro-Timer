@@ -1,0 +1,12 @@
+f:\Users\pryan.METICULUSOFFICE\Documents\Visual Studio 2010\Projects\PomodoroTimer\PomodoroTimer\bin\Debug\PomodoroTimer.exe.config
+f:\Users\pryan.METICULUSOFFICE\Documents\Visual Studio 2010\Projects\PomodoroTimer\PomodoroTimer\bin\Debug\PomodoroTimer.exe
+f:\Users\pryan.METICULUSOFFICE\Documents\Visual Studio 2010\Projects\PomodoroTimer\PomodoroTimer\bin\Debug\PomodoroTimer.pdb
+f:\Users\pryan.METICULUSOFFICE\Documents\Visual Studio 2010\Projects\PomodoroTimer\PomodoroTimer\bin\Debug\PomodoroTimer.xml
+f:\Users\pryan.METICULUSOFFICE\Documents\Visual Studio 2010\Projects\PomodoroTimer\PomodoroTimer\obj\x86\Debug\ResolveAssemblyReference.cache
+f:\Users\pryan.METICULUSOFFICE\Documents\Visual Studio 2010\Projects\PomodoroTimer\PomodoroTimer\obj\x86\Debug\PomodoroTimer.TimerForm.resources
+f:\Users\pryan.METICULUSOFFICE\Documents\Visual Studio 2010\Projects\PomodoroTimer\PomodoroTimer\obj\x86\Debug\PomodoroTimer.Resources.resources
+f:\Users\pryan.METICULUSOFFICE\Documents\Visual Studio 2010\Projects\PomodoroTimer\PomodoroTimer\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+f:\Users\pryan.METICULUSOFFICE\Documents\Visual Studio 2010\Projects\PomodoroTimer\PomodoroTimer\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+f:\Users\pryan.METICULUSOFFICE\Documents\Visual Studio 2010\Projects\PomodoroTimer\PomodoroTimer\obj\x86\Debug\PomodoroTimer.exe
+f:\Users\pryan.METICULUSOFFICE\Documents\Visual Studio 2010\Projects\PomodoroTimer\PomodoroTimer\obj\x86\Debug\PomodoroTimer.xml
+f:\Users\pryan.METICULUSOFFICE\Documents\Visual Studio 2010\Projects\PomodoroTimer\PomodoroTimer\obj\x86\Debug\PomodoroTimer.pdb
