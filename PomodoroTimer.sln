@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "PomodoroTimer", "PomodoroTimer\PomodoroTimer.vbproj", "{88599EF4-343A-4E07-805F-4245E6F3760A}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "PomodoroTimerSetup", "PomodoroTimerSetup\PomodoroTimerSetup.vdproj", "{784B697F-1D3B-41DF-B988-C7B618AE5D48}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -13,6 +15,8 @@ Global
 		{88599EF4-343A-4E07-805F-4245E6F3760A}.Debug|x86.Build.0 = Debug|x86
 		{88599EF4-343A-4E07-805F-4245E6F3760A}.Release|x86.ActiveCfg = Release|x86
 		{88599EF4-343A-4E07-805F-4245E6F3760A}.Release|x86.Build.0 = Release|x86
+		{784B697F-1D3B-41DF-B988-C7B618AE5D48}.Debug|x86.ActiveCfg = Debug
+		{784B697F-1D3B-41DF-B988-C7B618AE5D48}.Release|x86.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
